@@ -1,0 +1,120 @@
+.frame1 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    top: 0;
+    left: -0;
+    
+    background: #002E12;
+}
+.ine {
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    
+    background: #309F09;
+}
+.ina {
+    position: absolute;
+width: 94px;
+height: 980px;
+left: 0px;
+top: 100px;
+
+background: #328931;
+}
+.ikonca {
+    position: absolute;
+    width: 94px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    
+    background: #2D652C;
+}
+.button{
+    position: absolute;
+    width: 153px;
+    height: 100px;
+    left: 312px;
+    top: 0px;
+
+    background: #28BA86;
+}
+.button1 {position: absolute;
+    width: 159px;
+    height: 100px;
+    left: 608px;
+    top: 1px;
+    
+    background: #28BA86;
+}
+.button2 {
+    position: absolute;
+    width: 159px;
+    height: 100px;
+    left: 921px;
+    top: 0px;
+    
+    background: #28BA86;
+}
+.button3 {
+    position: absolute;
+    width: 159px;
+    height: 100px;
+    left: 1206px;
+    top: 1px;
+
+
+    
+    background: #28BA86;
+}
+.text3 {
+    position: absolute;
+    width: 94px;
+    height: 100px;
+    left: 0px;
+    top: 14px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 77px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    
+    color: #E9E9E9;
+} 
+.text {
+    position: absolute;
+    width: 582px;
+    height: 256px;
+    left: 108px;
+    top: 118px;
+    
+    font-family: 'Inter';
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.text1{
+    position: absolute;
+width: 644px;
+height: 292px;
+left: 526px;
+top: 396px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 51px;
+
+color: #FFFFFF;
+
+}
